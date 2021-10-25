@@ -1,8 +1,8 @@
 //
 //  main.cpp
-//  OpenCV_prac2
+//  OpenCV_prac4
 //
-//  Created by HYEJI on 2021/10/20.
+//  Created by HYEJI on 2021/10/22.
 //
 
 #include <iostream>
